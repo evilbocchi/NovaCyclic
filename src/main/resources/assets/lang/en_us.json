@@ -1,0 +1,29 @@
+{
+  "menu.cyclic.items.category.equipment": "Equipment",
+  
+  "item.cyclic.gem_obsidian": "Crystallized Obsidian",
+  "item.cyclic.gem_obsidian.tooltip": "Crafting material",
+  "item.cyclic.gem_obsidian.guide": "Obsidian Gems are created in the Solidification Chamber.  They are used as a crafting material in many things",
+  
+  "item.cyclic.crystal_pickaxe": "Crystal Pickaxe",
+  "item.cyclic.crystal_axe": "Crystal Axe",
+  "item.cyclic.crystal_sword": "Crystal Sword",
+  "item.cyclic.crystal_hoe": "Crystal Hoe",
+  "item.cyclic.crystal_shovel": "Crystal Shovel",
+  
+  "item.cyclic.emerald_pickaxe": "Emerald Pickaxe",
+  "item.cyclic.emerald_axe": "Emerald Axe",
+  "item.cyclic.emerald_sword": "Emerald Sword",
+  "item.cyclic.emerald_hoe": "Emerald Hoe",
+  "item.cyclic.emerald_shovel": "Emerald Shovel",
+  
+  "item.cyclic.crystal_helmet": "Crystal Helmet",
+  "item.cyclic.crystal_chestplate": "Crystal Chestplate",
+  "item.cyclic.crystal_leggings": "Crystal Leggings",
+  "item.cyclic.crystal_boots": "Crystal Boots",
+  
+  "item.cyclic.emerald_helmet": "Emerald Helmet",
+  "item.cyclic.emerald_chestplate": "Emerald Chestplate",
+  "item.cyclic.emerald_leggings": "Emerald Leggings",
+  "item.cyclic.emerald_boots": "Emerald Boots"
+}

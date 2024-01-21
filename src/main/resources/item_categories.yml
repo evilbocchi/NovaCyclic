@@ -1,0 +1,28 @@
+cyclic:
+  icon: cyclic:emerald_sword
+  name: "menu.cyclic.items.category.equipment"
+  priority: 0
+  items:
+    - cyclic:gem_obsidian
+
+    - cyclic:emerald_sword
+    - cyclic:emerald_pickaxe
+    - cyclic:emerald_axe
+    - cyclic:emerald_shovel
+    - cyclic:emerald_hoe
+
+    - cyclic:crystal_sword
+    - cyclic:crystal_pickaxe
+    - cyclic:crystal_axe
+    - cyclic:crystal_shovel
+    - cyclic:crystal_hoe
+
+    - cyclic:emerald_helmet
+    - cyclic:emerald_chestplate
+    - cyclic:emerald_leggings
+    - cyclic:emerald_boots
+
+    - cyclic:crystal_helmet
+    - cyclic:crystal_chestplate
+    - cyclic:crystal_leggings
+    - cyclic:crystal_boots

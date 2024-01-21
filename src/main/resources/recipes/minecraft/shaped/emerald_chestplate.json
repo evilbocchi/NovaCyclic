@@ -1,0 +1,12 @@
+{
+  "category": "equipment",
+  "result": "cyclic:emerald_chestplate",
+  "shape": [
+    "c c",
+    "ccc",
+    "ccc"
+  ],
+  "ingredients": {
+    "c": "minecraft:emerald"
+  }
+}

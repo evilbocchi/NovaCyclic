@@ -1,0 +1,13 @@
+tool_tier: cyclic:emerald
+tool_category: minecraft:hoe
+break_speed: 8
+attack_damage: 1.5
+attack_speed: 4
+can_sweep_attack: false
+can_break_blocks_in_creative: true
+max_durability: 1593
+item_damage_on_attack_entity: 2
+item_damage_on_break_block: 1
+repair_ingredient: "minecraft:emerald"
+enchantment_value: 22
+enchantment_categories: ["digger", "breakable"]

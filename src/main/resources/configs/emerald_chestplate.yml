@@ -1,0 +1,5 @@
+armor: 9
+armor_toughness: 3
+knockback_resistance: 0.05
+max_durability: 560
+repair_ingredient: "minecraft:emerald"

@@ -1,0 +1,49 @@
+{
+  "gem_obsidian": "item/gem_obsidian",
+
+  "emerald_pickaxe": "item/gear/emerald_pickaxe",
+  "emerald_sword": "item/gear/emerald_sword",
+  "emerald_shovel": "item/gear/emerald_shovel",
+  "emerald_hoe": "item/gear/emerald_hoe",
+  "emerald_axe": "item/gear/emerald_axe",
+  
+  "crystal_pickaxe": "item/gear/crystal_pickaxe",
+  "crystal_sword": "item/gear/crystal_sword",
+  "crystal_shovel": "item/gear/crystal_shovel",
+  "crystal_hoe": "item/gear/crystal_hoe",
+  "crystal_axe": "item/gear/crystal_axe",
+  
+  "emerald_helmet": {
+    "item": "item/gear/emerald_helmet",
+    "armor": "emerald"
+  },
+  "emerald_chestplate": {
+    "item": "item/gear/emerald_chestplate",
+    "armor": "emerald"
+  },
+  "emerald_leggings": {
+    "item": "item/gear/emerald_leggings",
+    "armor": "emerald"
+  },
+  "emerald_boots": {
+    "item": "item/gear/emerald_boots",
+    "armor": "emerald"
+  },
+  
+  "crystal_helmet": {
+    "item": "item/gear/crystal_helmet",
+    "armor": "crystal"
+  },
+  "crystal_chestplate": {
+    "item": "item/gear/crystal_chestplate",
+    "armor": "crystal"
+  },
+  "crystal_leggings": {
+    "item": "item/gear/crystal_leggings",
+    "armor": "crystal"
+  },
+  "crystal_boots": {
+    "item": "item/gear/crystal_boots",
+    "armor": "crystal"
+  }
+}

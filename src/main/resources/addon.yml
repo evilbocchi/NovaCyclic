@@ -1,0 +1,7 @@
+id: cyclic
+name: NovaCyclic
+version: "${project.version}"
+main: org.evilbocchi.novacyclic.NovaCyclic
+novaVersion: "${nova.version}"
+authors: [ "evilbocchi" ]
+spigotResourceId: -1

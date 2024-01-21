@@ -1,0 +1,12 @@
+{
+  "category": "equipment",
+  "result": "cyclic:emerald_leggings",
+  "shape": [
+    "ccc",
+    "c c",
+    "c c"
+  ],
+  "ingredients": {
+    "c": "minecraft:emerald"
+  }
+}

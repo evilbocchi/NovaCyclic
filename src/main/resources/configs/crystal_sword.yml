@@ -1,0 +1,13 @@
+tool_tier: cyclic:gem_obsidian
+tool_category: minecraft:sword
+break_speed: 3
+attack_damage: 14.5
+attack_speed: 1.6
+can_sweep_attack: true
+can_break_blocks_in_creative: false
+max_durability: 6248
+item_damage_on_attack_entity: 1
+item_damage_on_break_block: 2
+repair_ingredient: "cyclic:gem_obsidian"
+enchantment_value: 22
+enchantment_categories: ["weapon", "breakable"]

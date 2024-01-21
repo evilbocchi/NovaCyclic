@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "cyclic:emerald_sword",
+  "shape": [
+    " c ",
+    " c ",
+    " d "
+  ],
+  "ingredients": {
+    "c": "minecraft:emerald",
+    "d": "minecraft:stick"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "category": "equipment",
+  "result": "cyclic:emerald_helmet",
+  "shape": [
+    "ccc",
+    "c c"
+  ],
+  "ingredients": {
+    "c": "minecraft:emerald"
+  }
+}

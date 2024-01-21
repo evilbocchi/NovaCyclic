@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "cyclic:crystal_sword",
+  "shape": [
+    " c ",
+    " c ",
+    " d "
+  ],
+  "ingredients": {
+    "c": "cyclic:gem_obsidian",
+    "d": "minecraft:diamond"
+  }
+}

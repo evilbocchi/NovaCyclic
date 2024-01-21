@@ -1,0 +1,11 @@
+{
+  "category": "equipment",
+  "result": "cyclic:emerald_boots",
+  "shape": [
+    "c c",
+    "c c"
+  ],
+  "ingredients": {
+    "c": "minecraft:emerald"
+  }
+}

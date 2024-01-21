@@ -1,0 +1,5 @@
+armor: 7
+armor_toughness: 6
+knockback_resistance: 0.05
+max_durability: 910
+repair_ingredient: "cyclic:gem_obsidian"

@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "cyclic:emerald_hoe",
+  "shape": [
+    " cc",
+    " d ",
+    " d "
+  ],
+  "ingredients": {
+    "c": "minecraft:emerald",
+    "d": "minecraft:stick"
+  }
+}

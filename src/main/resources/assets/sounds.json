@@ -1,0 +1,37 @@
+{
+  "item.armor.equip_copper": {
+    "sounds": [
+      "item/armor/equip_gold1",
+      "item/armor/equip_gold2",
+      "item/armor/equip_gold3",
+      "item/armor/equip_gold4",
+      "item/armor/equip_gold5",
+      "item/armor/equip_gold6"
+    ],
+    "subtitle": "subtitles.cyclic.item.armor.equip_copper"
+  },
+  
+  "item.armor.equip_emerald": {
+    "sounds": [
+      "item/armor/equip_gold1",
+      "item/armor/equip_gold2",
+      "item/armor/equip_gold3",
+      "item/armor/equip_gold4",
+      "item/armor/equip_gold5",
+      "item/armor/equip_gold6"
+    ],
+    "subtitle": "subtitles.cyclic.item.armor.equip_emerald"
+  },
+  
+  "item.armor.equip_crystal": {
+    "sounds": [
+      "item/armor/equip_gold1",
+      "item/armor/equip_gold2",
+      "item/armor/equip_gold3",
+      "item/armor/equip_gold4",
+      "item/armor/equip_gold5",
+      "item/armor/equip_gold6"
+    ],
+    "subtitle": "subtitles.cyclic.item.armor.equip_crystal"
+  }
+}

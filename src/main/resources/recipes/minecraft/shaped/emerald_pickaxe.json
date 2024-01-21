@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "cyclic:emerald_pickaxe",
+  "shape": [
+    "ccc",
+    " d ",
+    " d "
+  ],
+  "ingredients": {
+    "c": "minecraft:emerald",
+    "d": "minecraft:stick"
+  }
+}

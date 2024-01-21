@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "cyclic:emerald_axe",
+  "shape": [
+    " cc",
+    " dc",
+    " d "
+  ],
+  "ingredients": {
+    "c": "minecraft:emerald",
+    "d": "minecraft:stick"
+  }
+}
